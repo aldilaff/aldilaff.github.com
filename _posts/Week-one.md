@@ -2,6 +2,8 @@
 layout: post
 title: Week One!
 ---
+
+
 Hi! 
 
 My name is Faisal and I am an international student studying Computer Science here at UT. I am fourth year student hoping to graduate this May.
