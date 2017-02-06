@@ -18,7 +18,7 @@ I am currently waiting for the new project to be announced. Until then, I will t
 ### Class Experience 
 
 On Tuesday, we talked in class about Python’s operations, variables, and copy methods. Some things were very confusing and not intuitive. One example is this part from the [Variables](https://github.com/fareszf/cs373/blob/master/examples/Variables.py) file:
-`a = [2, 3, 4]
+```a = [2, 3, 4]
 b = a
 assert a is b
 b += (5,)
@@ -28,7 +28,7 @@ assert a is b
 a = [2, 3, 4]
 b = a
 assert a is b
-#b = b + (5,) # TypeError: can only concatenate list (not “tuple”) to list`
+#b = b + (5,) # TypeError: can only concatenate list (not “tuple”) to list```
 
 Somehow, using += to add a tuple to a list works fine. However, adding a tuple to a list using b = b + tuple does not work and raises an error. I asked about this on Piazza and the Professor replied with the explanation: += only requires the right hand side to be an iterable while using + with a list requires the right hand side to be also a list.
 
