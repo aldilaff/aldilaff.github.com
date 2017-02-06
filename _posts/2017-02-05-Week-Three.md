@@ -31,7 +31,8 @@ assert a is b
 a = [2, 3, 4]
 b = a
 assert a is b
-#b = b + (5,) # TypeError: can only concatenate list (not “tuple”) to list```
+#b = b + (5,) # TypeError: can only concatenate list (not “tuple”) to list
+```
 
 Somehow, using += to add a tuple to a list works fine. However, adding a tuple to a list using b = b + tuple does not work and raises an error. I asked about this on Piazza and the Professor replied with the explanation: += only requires the right hand side to be an iterable while using + with a list requires the right hand side to be also a list.
 
