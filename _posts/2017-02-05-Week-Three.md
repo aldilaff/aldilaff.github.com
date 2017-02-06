@@ -18,7 +18,8 @@ I am currently waiting for the new project to be announced. Until then, I will t
 ### Class Experience 
 
 On Tuesday, we talked in class about Python’s operations, variables, and copy methods. Some things were very confusing and not intuitive. One example is this part from the [Variables](https://github.com/fareszf/cs373/blob/master/examples/Variables.py) file:
-```a = [2, 3, 4]
+```python
+a = [2, 3, 4]
 b = a
 assert a is b
 b += (5,)
