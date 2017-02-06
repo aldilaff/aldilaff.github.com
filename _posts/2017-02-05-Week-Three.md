@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Week Two!
 ---
 
 ### What did you do this past week?
