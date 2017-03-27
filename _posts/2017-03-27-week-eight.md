@@ -23,7 +23,7 @@ This week we covered Theta join and normal join. Normal join is really confusing
 
 ### Tip-of-the-week
 If you’re using nodejs and need to find the IP address of the server, you can do something like this:
-```python
+```javascript
 var server = http.createServer(app);
 console.log(server.address())
 ```
