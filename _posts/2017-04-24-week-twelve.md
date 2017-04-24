@@ -5,8 +5,9 @@ title: Week Twelve!
 
 ### What did you do this past week?
 
-	Our group finished working on the last project last week with enough time to double check that everything is working fine. We also worked on creating our presentation which included critiquing our website and another group’s website. 
-	We also worked on creating the extra credit presentation on the topic of python loggers. We hope that people enjoy it if we get chosen to present.
+Our group finished working on the last project last week with enough time to double check that everything is working fine. We also worked on creating our presentation which included critiquing our website and another group’s website. 
+
+We also worked on creating the extra credit presentation on the topic of python loggers. We hope that people enjoy it if we get chosen to present.
 
 ### What's in your way?
 Currently not much besides finding the motivation to finish the semester strong.
